@@ -1,1 +1,2 @@
 # CE341_ID1586
+เขียนโปรแกรม index.html แล้วทำการอัพโหลกลงใน repository github เพื่อทำการซิงค์ระหว่างเว็บและ VS Code เปิด VMware แล้วทำการล็อคอิน ใช้คำสั่ง sudo apt update -y เพื่ออัพเดต ใช้คำสั่ง sudo apt install apache2 ใช้คำสั่ง sudo apt install git เพื่อติดตั้งเครื่องมือที่ใช้ ใช้คำสั่ง git clone "https://github.com/Phrompas/CE341_ID1586.git" เพื่อ clone code มารันบนVMware ใช้คำสั่ง ls เพื่อดูไฟล์ที่โคลน ใช้คำสั่ง cd ตามด้วยชื่อไฟล์ เพื่อเข้าไปยังที่อยู่ของไฟล์ที่ต้องการ ใช้คำสั่ง sudo cp index.html /var/www/html/ เพื่อทำการ replce file
